@@ -1,4 +1,5 @@
 # Stan's Robot Shop App Deployment Guide
+![04_LAB01_deploying_a_microservice_application_to_kubernetes](https://github.com/hpbonfim/robot-shop/assets/40275173/750be3ec-b82d-41b4-b105-e9181dbcf3c0)
 
 This guide provides step-by-step instructions on how to deploy the Stan's Robot Shop app to a Kubernetes cluster and scale up the MongoDB deployment to two replicas.
 
