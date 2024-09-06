@@ -1,4 +1,4 @@
-FROM golang:1.9.2
+FROM golang:1.22.7
 
 ENV DEP_URL="https://github.com/golang/dep/releases/download/v0.4.1/dep-linux-amd64"
 ENV GOPATH=/go
