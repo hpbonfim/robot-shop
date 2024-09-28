@@ -1,4 +1,4 @@
-FROM nginx:1.13.8
+FROM nginx:1.26.1
 
 EXPOSE 8080
 
